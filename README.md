@@ -42,15 +42,20 @@ La técnica Pomodoro es un método de gestión del tiempo que divide el trabajo 
 ¡Toda ayuda es bienvenida para hacer de FocusFlow una herramienta aún mejor!
 
 ## 📬 Contacto
-Creado con ❤️ por devaimar8
 
-### 📌 ¿Qué puedes hacer ahora?
+**Linkedin:** https://www.linkedin.com/in/aimar-esqueta-albert-a0a33b302/
+
+**Correo:** aimaresquetaalbert@gmail.com
+
+**Creado por DevAimar8**
+
+## 📌 ¿Qué puedes hacer ahora?
 
 1. Crea un archivo `README.md` en la raíz del proyecto.
 2. Copia y pega este contenido.
 3. Haz commit y súbelo a GitHub:
 
 ```bash
-git add README.md
-git commit -m "Añadir README atractivo con detalles del proyecto"
-git push
+   git add README.md
+   git commit -m "Añadir README atractivo con detalles del proyecto"
+   git push
