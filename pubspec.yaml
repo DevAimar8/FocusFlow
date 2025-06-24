@@ -1,0 +1,38 @@
+name: focusflow
+description: A simple and effective Pomodoro timer app built with Flutter.
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.6.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # UI y diseño
+  cupertino_icons: ^1.0.8
+  google_fonts: ^6.2.0
+  percent_indicator: ^4.2.3
+
+  # Estado
+  provider: ^6.1.1
+
+  # Persistencia local
+  shared_preferences: ^2.2.2
+
+  # Notificaciones
+  flutter_local_notifications: ^16.3.0
+
+  # Utilidades
+  intl: ^0.19.0
+  fl_chart: ^0.66.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
