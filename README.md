@@ -7,8 +7,7 @@
 - ⏱ **Temporizador Pomodoro personalizable**  
 - 📊 **Estadísticas de sesiones completadas**  
 - 🎯 **Objetivos diarios y metas de enfoque**
-- 🎵 **Sonidos relajantes para concentrarte mejor**
-- 📱 **Interfaz responsiva y amigable para móviles Android** *(iOS próximamente)*
+- 📱 **Interfaz responsiva y amigable para móviles**
 
 ## 🛠 Tecnologías utilizadas
 
@@ -16,10 +15,6 @@
 - Provider (gestión de estado)  
 - SharedPreferences (almacenamiento local)  
 - Diseño Material adaptado
-
-## 🚀 Capturas de pantalla *(proximamente)*
-
-*(Aquí puedes añadir imágenes de la app una vez la tengas visualmente lista)*
 
 ## 📦 Instalación
 
@@ -30,16 +25,12 @@
    cd FocusFlow
 Instala las dependencias:
 
-bash
-Copiar
-Editar
-flutter pub get
+```bash
+   flutter pub get
 Ejecuta la aplicación:
 
-bash
-Copiar
-Editar
-flutter run
+```bash
+   flutter run
 
 ## 💡 ¿Qué es la técnica Pomodoro?
 La técnica Pomodoro es un método de gestión del tiempo que divide el trabajo en bloques de 25 minutos llamados "pomodoros", seguidos de descansos cortos. Tras completar varios pomodoros, se toma un descanso más largo. Esta técnica ayuda a mantener la concentración y prevenir el agotamiento.
