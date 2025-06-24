@@ -40,23 +40,16 @@ bash
 Copiar
 Editar
 flutter run
-💡 ¿Qué es la técnica Pomodoro?
+
+## 💡 ¿Qué es la técnica Pomodoro?
 La técnica Pomodoro es un método de gestión del tiempo que divide el trabajo en bloques de 25 minutos llamados "pomodoros", seguidos de descansos cortos. Tras completar varios pomodoros, se toma un descanso más largo. Esta técnica ayuda a mantener la concentración y prevenir el agotamiento.
 
-🙌 Contribuciones
+## 🙌 Contribuciones
 ¡Las contribuciones son bienvenidas! Si quieres mejorar esta app, abre un issue o haz un pull request.
 ¡Toda ayuda es bienvenida para hacer de FocusFlow una herramienta aún mejor!
 
-📬 Contacto
+## 📬 Contacto
 Creado con ❤️ por devaimar8
-
-🧘 “El enfoque es el nuevo coeficiente intelectual.” — Cal Newport
-
-yaml
-Copiar
-Editar
-
----
 
 ### 📌 ¿Qué puedes hacer ahora?
 
