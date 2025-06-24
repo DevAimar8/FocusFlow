@@ -23,13 +23,15 @@
    ```bash
    git clone https://github.com/devaimar8/FocusFlow.git
    cd FocusFlow
-Instala las dependencias:
 
-```bash
+2. Instala las dependencias:
+
+   ```bash
    flutter pub get
-Ejecuta la aplicación:
 
-```bash
+3. Ejecuta la aplicación:
+
+   ```bash
    flutter run
 
 ## 💡 ¿Qué es la técnica Pomodoro?
